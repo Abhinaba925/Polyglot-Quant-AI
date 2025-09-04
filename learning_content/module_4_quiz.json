@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Quiz: The Building Blocks",
+    "questions": [
+      {
+        "question": "Which investment product offers instant diversification and professional management by pooling money from many investors?",
+        "options": [
+          "Stocks",
+          "Bonds",
+          "Initial Public Offerings (IPOs)",
+          "Mutual Funds"
+        ],
+        "answer": "Mutual Funds",
+        "explanation": "Mutual funds are specifically designed to pool money from multiple investors to create a diversified portfolio that is managed by a professional fund manager."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: बिल्डिंग ब्लॉक्स",
+    "questions": [
+      {
+        "question": "कौन सा निवेश उत्पाद कई निवेशकों से पैसा इकट्ठा करके तत्काल विविधीकरण और पेशेवर प्रबंधन प्रदान करता है?",
+        "options": [
+          "स्टॉक",
+          "बॉन्ड",
+          "प्रारंभिक सार्वजनिक पेशकश (आईपीओ)",
+          "म्यूचुअल फंड"
+        ],
+        "answer": "म्यूचुअल फंड",
+        "explanation": "म्यूचुअल फंड विशेष रूप से कई निवेशकों से पैसा इकट्ठा करके एक विविध पोर्टफोलियो बनाने के लिए डिज़ाइन किए गए हैं जिसे एक पेशेवर फंड मैनेजर द्वारा प्रबंधित किया जाता है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: বিল্ডিং ব্লক",
+    "questions": [
+      {
+        "question": "কোন বিনিয়োগ পণ্যটি অনেক বিনিয়োগকারীর কাছ থেকে টাকা সংগ্রহ করে তাত্ক্ষণিক বৈচিত্র্য এবং পেশাদার পরিচালনা প্রদান করে?",
+        "options": [
+          "স্টক",
+          "বন্ড",
+          "প্রাথমিক পাবলিক অফারিং (আইপিও)",
+          "মিউচুয়াল ফান্ড"
+        ],
+        "answer": "মিউচুয়াল ফান্ড",
+        "explanation": "মিউচুয়াল ফান্ডগুলি বিশেষভাবে একাধিক বিনিয়োগকারীর কাছ থেকে টাকা সংগ্রহ করে একটি বৈচিত্র্যময় পোর্টফোলিও তৈরি করার জন্য ডিজাইন করা হয়েছে যা একজন পেশাদার ফান্ড ম্যানেজার দ্বারা পরিচালিত হয়।"
+      }
+    ]
+  }
+}

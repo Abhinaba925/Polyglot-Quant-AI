@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Module 2: The Indian Stock Market Ecosystem",
+    "sections": [
+      {
+        "title": "The Role of the Regulator: Why SEBI Matters for Your Protection",
+        "content": "The Securities and Exchange Board of India (SEBI) is the principal regulator of the securities market in India. Its primary mission is to protect the interests of investors, promote the development of the securities market, and regulate its functioning."
+      },
+      {
+        "title": "The Marketplaces: Understanding NSE and BSE",
+        "content": "The two primary stock exchanges in India are the Bombay Stock Exchange (BSE), Asia's oldest, and the National Stock Exchange (NSE), known for its modern, automated trading system and higher liquidity."
+      },
+      {
+        "title": "Key Market Indices: Sensex and Nifty Explained",
+        "content": "Market indices act as a barometer for the market's health. The S&P BSE Sensex (comprising 30 stocks) and the Nifty 50 (comprising 50 stocks) are the two most prominent indices in India, representing the performance of large, well-established companies."
+      }
+    ]
+  },
+  "hi": {
+    "title": "मॉड्यूल 2: भारतीय शेयर बाजार पारिस्थितिकी तंत्र",
+    "sections": [
+      {
+        "title": "नियामक की भूमिका: आपकी सुरक्षा के लिए सेबी क्यों मायने रखता है",
+        "content": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) भारत में प्रतिभूति बाजार का प्रमुख नियामक है। इसका प्राथमिक मिशन निवेशकों के हितों की रक्षा करना, प्रतिभूति बाजार के विकास को बढ़ावा देना और इसके कामकाज को विनियमित करना है।"
+      },
+      {
+        "title": "बाजार: एनएसई और बीएसई को समझना",
+        "content": "भारत में दो प्राथमिक स्टॉक एक्सचेंज बॉम्बे स्टॉक एक्सचेंज (बीएसई), एशिया का सबसे पुराना, और नेशनल स्टॉक एक्सचेंज (एनएसई) हैं, जो अपने आधुनिक, स्वचालित ट्रेडिंग सिस्टम और उच्च तरलता के लिए जाना जाता है।"
+      },
+      {
+        "title": "प्रमुख बाजार सूचकांक: सेंसेक्स और निफ्टी की व्याख्या",
+        "content": "बाजार सूचकांक बाजार के स्वास्थ्य के लिए एक बैरोमीटर के रूप में कार्य करते हैं। एसएंडपी बीएसई सेंसेक्स (30 शेयरों से युक्त) और निफ्टी 50 (50 शेयरों से युक्त) भारत में दो सबसे प्रमुख सूचकांक हैं, जो बड़ी, सुस्थापित कंपनियों के प्रदर्शन का प्रतिनिधित्व करते हैं।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "মডিউল ২: ভারতীয় স্টক মার্কেট ইকোসিস্টেম",
+    "sections": [
+      {
+        "title": "নিয়ন্ত্রকের ভূমিকা: আপনার সুরক্ষার জন্য SEBI কেন গুরুত্বপূর্ণ",
+        "content": "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া (SEBI) হল ভারতের সিকিউরিটিজ মার্কেটের প্রধান নিয়ন্ত্রক। এর প্রাথমিক লক্ষ্য হল বিনিয়োগকারীদের স্বার্থ রক্ষা করা, সিকিউরিটিজ মার্কেটের উন্নয়ন প্রচার করা এবং এর কার্যকারিতা নিয়ন্ত্রণ করা।"
+      },
+      {
+        "title": "মার্কেটপ্লেস: NSE এবং BSE বোঝা",
+        "content": "ভারতের দুটি প্রাথমিক স্টক এক্সচেঞ্জ হল বোম্বে স্টক এক্সচেঞ্জ (BSE), এশিয়ার প্রাচীনতম, এবং ন্যাশনাল স্টক এক্সচেঞ্জ (NSE), যা তার আধুনিক, স্বয়ংক্রিয় ট্রেডিং সিস্টেম এবং উচ্চ তারল্যের জন্য পরিচিত।"
+      },
+      {
+        "title": "মূল বাজার সূচক: সেনসেক্স এবং নিফটি ব্যাখ্যা করা হয়েছে",
+        "content": "বাজার সূচকগুলি বাজারের স্বাস্থ্যের জন্য একটি ব্যারোমিটার হিসাবে কাজ করে। S&P BSE সেনসেক্স (৩০টি স্টক নিয়ে গঠিত) এবং নিফটি ৫০ (৫০টি স্টক নিয়ে গঠিত) ভারতের দুটি সবচেয়ে বিশিষ্ট সূচক, যা বড়, সুপ্রতিষ্ঠিত কোম্পানিগুলির কর্মক্ষমতা প্রতিনিধিত্ব করে।"
+      }
+    ]
+  }
+}

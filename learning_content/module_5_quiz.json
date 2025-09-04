@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Quiz: Deep Dive into Stocks",
+    "questions": [
+      {
+        "question": "According to SEBI's classification, which category do the top 100 companies by market capitalization belong to?",
+        "options": [
+          "Small-Cap",
+          "Mid-Cap",
+          "Large-Cap",
+          "Mega-Cap"
+        ],
+        "answer": "Large-Cap",
+        "explanation": "Large-Cap companies are defined by SEBI as the top 100 companies in India by full market capitalization. They are known for their stability and market leadership."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: शेयरों में गहरी डुबकी",
+    "questions": [
+      {
+        "question": "सेबी के वर्गीकरण के अनुसार, बाजार पूंजीकरण के हिसाब से शीर्ष 100 कंपनियां किस श्रेणी में आती हैं?",
+        "options": [
+          "स्मॉल-कैप",
+          "मिड-कैप",
+          "लार्ज-कैप",
+          "मेगा-कैप"
+        ],
+        "answer": "लार्ज-कैप",
+        "explanation": "लार्ज-कैप कंपनियों को सेबी द्वारा पूर्ण बाजार पूंजीकरण के हिसाब से भारत की शीर्ष 100 कंपनियों के रूप में परिभाषित किया गया है। वे अपनी स्थिरता और बाजार नेतृत्व के लिए जानी जाती हैं।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: স্টকগুলিতে গভীর ডুব",
+    "questions": [
+      {
+        "question": "SEBI-এর শ্রেণীবিভাগ অনুসারে, বাজার মূলধন অনুসারে শীর্ষ ১০০টি কোম্পানি কোন বিভাগের অন্তর্গত?",
+        "options": [
+          "স্মল-ক্যাপ",
+          "মিড-ক্যাপ",
+          "লার্জ-ক্যাপ",
+          "মেগা-ক্যাপ"
+        ],
+        "answer": "লার্জ-ক্যাপ",
+        "explanation": "লার্জ-ক্যাপ কোম্পানিগুলিকে SEBI দ্বারা সম্পূর্ণ বাজার মূলধন অনুসারে ভারতের শীর্ষ ১০০টি কোম্পানি হিসাবে সংজ্ঞায়িত করা হয়েছে। তারা তাদের স্থিতিশীলতা এবং বাজার নেতৃত্বের জন্য পরিচিত।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Module 3: Your First Steps: Opening Demat & Trading Accounts",
+    "sections": [
+      {
+        "title": "What are Demat and Trading Accounts?",
+        "content": "A Demat Account is a digital vault where you hold your securities (stocks, bonds) electronically. A Trading Account is the interface you use to place buy and sell orders on the stock exchange. Both are mandatory for equity investing in India."
+      },
+      {
+        "title": "Step-by-Step Guide to Opening an Account Online",
+        "content": "The modern process is quick and paperless. It involves choosing a broker (Depository Participant), filling an online form, completing the KYC process, uploading documents, and e-signing the application using an Aadhaar-based OTP."
+      },
+      {
+        "title": "Documents Required and the KYC Process",
+        "content": "'Know Your Customer' (KYC) is a mandatory verification process. You will need a PAN Card (mandatory), Proof of Address (like Aadhaar), and Proof of Bank Account (like a cancelled cheque) to open your accounts."
+      }
+    ]
+  },
+  "hi": {
+    "title": "मॉड्यूल 3: आपके पहले कदम: डीमैट और ट्रेडिंग खाते खोलना",
+    "sections": [
+      {
+        "title": "डीमैट और ट्रेडिंग खाते क्या हैं?",
+        "content": "एक डीमैट खाता एक डिजिटल तिजोरी है जहाँ आप अपनी प्रतिभूतियों (स्टॉक, बॉन्ड) को इलेक्ट्रॉनिक रूप से रखते हैं। एक ट्रेडिंग खाता वह इंटरफ़ेस है जिसका उपयोग आप स्टॉक एक्सचेंज पर खरीदने और बेचने के आदेश देने के लिए करते हैं। भारत में इक्विटी निवेश के लिए दोनों अनिवार्य हैं।"
+      },
+      {
+        "title": "ऑनलाइन खाता खोलने के लिए चरण-दर-चरण मार्गदर्शिका",
+        "content": "आधुनिक प्रक्रिया त्वरित और कागज रहित है। इसमें एक ब्रोकर (डिपॉजिटरी पार्टिसिपेंट) चुनना, एक ऑनलाइन फॉर्म भरना, केवाईसी प्रक्रिया पूरी करना, दस्तावेज अपलोड करना और आधार-आधारित ओटीपी का उपयोग करके आवेदन पर ई-हस्ताक्षर करना शामिल है।"
+      },
+      {
+        "title": "आवश्यक दस्तावेज और केवाईसी प्रक्रिया",
+        "content": "'अपने ग्राहक को जानें' (केवाईसी) एक अनिवार्य सत्यापन प्रक्रिया है। आपको अपने खाते खोलने के लिए एक पैन कार्ड (अनिवार्य), पते का प्रमाण (जैसे आधार), और बैंक खाते का प्रमाण (जैसे रद्द किया गया चेक) की आवश्यकता होगी।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "মডিউল ৩: আপনার প্রথম পদক্ষেপ: ডিম্যাট এবং ট্রেডিং অ্যাকাউন্ট খোলা",
+    "sections": [
+      {
+        "title": "ডিম্যাট এবং ট্রেডিং অ্যাকাউন্ট কি?",
+        "content": "একটি ডিম্যাট অ্যাকাউন্ট হল একটি ডিজিটাল ভল্ট যেখানে আপনি আপনার সিকিউরিটিজ (স্টক, বন্ড) ইলেকট্রনিকভাবে রাখেন। একটি ট্রেডিং অ্যাকাউন্ট হল সেই ইন্টারফেস যা আপনি স্টক এক্সচেঞ্জে ক্রয়-বিক্রয়ের অর্ডার দেওয়ার জন্য ব্যবহার করেন। ভারতে ইক্যুইটি বিনিয়োগের জন্য উভয়ই বাধ্যতামূলক।"
+      },
+      {
+        "title": "অনলাইনে অ্যাকাউন্ট খোলার জন্য ধাপে ধাপে নির্দেশিকা",
+        "content": "আধুনিক প্রক্রিয়াটি দ্রুত এবং কাগজবিহীন। এর মধ্যে একজন ব্রোকার (ডিপোজিটরি অংশগ্রহণকারী) নির্বাচন করা, একটি অনলাইন ফর্ম পূরণ করা, কেওয়াইসি প্রক্রিয়া সম্পন্ন করা, নথি আপলোড করা এবং আধার-ভিত্তিক ওটিপি ব্যবহার করে আবেদনে ই-সাইন করা জড়িত।"
+      },
+      {
+        "title": "প্রয়োজনীয় নথি এবং কেওয়াইসি প্রক্রিয়া",
+        "content": "'আপনার গ্রাহককে জানুন' (কেওয়াইসি) একটি বাধ্যতামূলক যাচাইকরণ প্রক্রিয়া। আপনার অ্যাকাউন্ট খোলার জন্য আপনার একটি প্যান কার্ড (বাধ্যতামূলক), ঠিকানার প্রমাণ (যেমন আধার), এবং ব্যাংক অ্যাকাউন্টের প্রমাণ (যেমন একটি বাতিল চেক) প্রয়োজন হবে।"
+      }
+    ]
+  }
+}

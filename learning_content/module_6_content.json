@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Module 6: Navigating the World of Mutual Funds",
+    "sections": [
+      {
+        "title": "Types of Mutual Funds Explained",
+        "content": "Funds are categorized by their assets: Equity Funds (stocks, for growth), Debt Funds (bonds, for stability), Hybrid Funds (a mix of both), and Index Funds (passively track an index like Nifty 50)."
+      },
+      {
+        "title": "Choosing the Right Fund: Key Metrics for Beginners",
+        "content": "When choosing a fund, look at its Investment Objective, Expense Ratio (lower is better), the Fund Manager's Track Record, and its Past Performance compared to its benchmark index."
+      },
+      {
+        "title": "Systematic Investment Plans (SIPs) vs. Lumpsum Investing",
+        "content": "A SIP allows you to invest a fixed amount regularly, which helps in disciplined investing and benefits from rupee cost averaging. Lumpsum is investing a large amount at once. For beginners, SIP is highly recommended."
+      }
+    ]
+  },
+  "hi": {
+    "title": "मॉड्यूल 6: म्यूचुअल फंड की दुनिया में नेविगेट करना",
+    "sections": [
+      {
+        "title": "म्यूचुअल फंड के प्रकारों की व्याख्या",
+        "content": "फंड को उनकी संपत्ति के अनुसार वर्गीकृत किया जाता है: इक्विटी फंड (स्टॉक, विकास के लिए), डेट फंड (बॉन्ड, स्थिरता के लिए), हाइब्रिड फंड (दोनों का मिश्रण), और इंडेक्स फंड (निष्क्रिय रूप से निफ्टी 50 जैसे इंडेक्स को ट्रैक करते हैं)।"
+      },
+      {
+        "title": "सही फंड चुनना: शुरुआती लोगों के लिए मुख्य मीट्रिक",
+        "content": "एक फंड चुनते समय, उसके निवेश उद्देश्य, व्यय अनुपात (कम बेहतर है), फंड मैनेजर के ट्रैक रिकॉर्ड और उसके बेंचमार्क इंडेक्स की तुलना में उसके पिछले प्रदर्शन को देखें।"
+      },
+      {
+        "title": "व्यवस्थित निवेश योजना (एसआईपी) बनाम एकमुश्त निवेश",
+        "content": "एक एसआईपी आपको नियमित रूप से एक निश्चित राशि का निवेश करने की अनुमति देता है, जो अनुशासित निवेश में मदद करता है और रुपये की लागत औसत का लाभ उठाता है। एकमुश्त एक बार में एक बड़ी राशि का निवेश कर रहा है। शुरुआती लोगों के लिए, एसआईपी की अत्यधिक अनुशंसा की जाती है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "মডিউল ৬: মিউচুয়াল ফান্ডের জগতে নেভিগেট করা",
+    "sections": [
+      {
+        "title": "মিউচুয়াল ফান্ডের প্রকারভেদ ব্যাখ্যা করা হয়েছে",
+        "content": "ফান্ডগুলিকে তাদের সম্পদ দ্বারা শ্রেণীবদ্ধ করা হয়: ইক্যুইটি ফান্ড (স্টক, বৃদ্ধির জন্য), ডেট ফান্ড (বন্ড, স্থিতিশীলতার জন্য), হাইব্রিড ফান্ড (উভয়ের মিশ্রণ), এবং ইনডেক্স ফান্ড (নিফটি ৫০-এর মতো একটি সূচককে নিষ্ক্রিয়ভাবে ট্র্যাক করে)।"
+      },
+      {
+        "title": "সঠিক ফান্ড নির্বাচন করা: নতুনদের জন্য মূল মেট্রিক",
+        "content": "একটি ফান্ড নির্বাচন করার সময়, তার বিনিয়োগের উদ্দেশ্য, ব্যয় অনুপাত (কম ভাল), ফান্ড ম্যানেজারের ট্র্যাক রেকর্ড এবং তার বেঞ্চমার্ক সূচকের তুলনায় তার অতীত কর্মক্ষমতা দেখুন।"
+      },
+      {
+        "title": "সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (এসআইপি) বনাম এককালীন বিনিয়োগ",
+        "content": "একটি এসআইপি আপনাকে নিয়মিতভাবে একটি নির্দিষ্ট পরিমাণ বিনিয়োগ করতে দেয়, যা শৃঙ্খলাবদ্ধ বিনিয়োগে সহায়তা করে এবং রুপি কস্ট অ্যাভারেজিং থেকে উপকৃত হয়। এককালীন হল একবারে একটি বড় পরিমাণ বিনিয়োগ করা। নতুনদের জন্য, এসআইপি অত্যন্ত সুপারিশ করা হয়।"
+      }
+    ]
+  }
+}

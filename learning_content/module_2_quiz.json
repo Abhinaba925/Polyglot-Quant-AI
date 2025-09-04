@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Quiz: The Stock Market Ecosystem",
+    "questions": [
+      {
+        "question": "Which entity is the primary regulator of the Indian securities market?",
+        "options": [
+          "Reserve Bank of India (RBI)",
+          "National Stock Exchange (NSE)",
+          "Securities and Exchange Board of India (SEBI)",
+          "Ministry of Finance"
+        ],
+        "answer": "Securities and Exchange Board of India (SEBI)",
+        "explanation": "SEBI is the principal regulator responsible for protecting investors and regulating the securities market in India."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: शेयर बाजार पारिस्थितिकी तंत्र",
+    "questions": [
+      {
+        "question": "कौन सी इकाई भारतीय प्रतिभूति बाजार की प्राथमिक नियामक है?",
+        "options": [
+          "भारतीय रिजर्व बैंक (आरबीआई)",
+          "नेशनल स्टॉक एक्सचेंज (एनएसई)",
+          "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी)",
+          "वित्त मंत्रालय"
+        ],
+        "answer": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी)",
+        "explanation": "सेबी भारत में निवेशकों की सुरक्षा और प्रतिभूति बाजार को विनियमित करने के लिए जिम्मेदार प्रमुख नियामक है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: স্টক মার্কেট ইকোসিস্টেম",
+    "questions": [
+      {
+        "question": "কোন সংস্থাটি ভারতীয় সিকিউরিটিজ মার্কেটের প্রাথমিক নিয়ন্ত্রক?",
+        "options": [
+          "ভারতীয় রিজার্ভ ব্যাংক (RBI)",
+          "ন্যাশনাল স্টক এক্সচেঞ্জ (NSE)",
+          "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া (SEBI)",
+          "অর্থ মন্ত্রণালয়"
+        ],
+        "answer": "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ বোর্ড অফ ইন্ডিয়া (SEBI)",
+        "explanation": "SEBI হল ভারতে বিনিয়োগকারীদের সুরক্ষা এবং সিকিউরিটিজ মার্কেট নিয়ন্ত্রণের জন্য দায়ী প্রধান নিয়ন্ত্রক।"
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Quiz: Opening Accounts",
+    "questions": [
+      {
+        "question": "Which document is mandatory for opening a Demat and Trading account in India?",
+        "options": [
+          "Passport",
+          "PAN Card",
+          "Driver's License",
+          "Voter ID"
+        ],
+        "answer": "PAN Card",
+        "explanation": "The PAN card is a mandatory document required by SEBI for all financial transactions in the securities market, including opening Demat and Trading accounts."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: खाते खोलना",
+    "questions": [
+      {
+        "question": "भारत में डीमैट और ट्रेडिंग खाता खोलने के लिए कौन सा दस्तावेज़ अनिवार्य है?",
+        "options": [
+          "पासपोर्ट",
+          "पैन कार्ड",
+          "ड्राइविंग लाइसेंस",
+          "मतदाता पहचान पत्र"
+        ],
+        "answer": "पैन कार्ड",
+        "explanation": "पैन कार्ड सेबी द्वारा प्रतिभूति बाजार में सभी वित्तीय लेनदेन के लिए आवश्यक एक अनिवार्य दस्तावेज है, जिसमें डीमैट और ट्रेडिंग खाते खोलना भी शामिल है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: অ্যাকাউন্ট খোলা",
+    "questions": [
+      {
+        "question": "ভারতে ডিম্যাট এবং ট্রেডিং অ্যাকাউন্ট খোলার জন্য কোন নথিটি বাধ্যতামূলক?",
+        "options": [
+          "পাসপোর্ট",
+          "প্যান কার্ড",
+          "ড্রাইভিং লাইসেন্স",
+          "ভোটার আইডি"
+        ],
+        "answer": "প্যান কার্ড",
+        "explanation": "প্যান কার্ড হল SEBI দ্বারা সিকিউরিটিজ মার্কেটের সমস্ত আর্থিক লেনদেনের জন্য প্রয়োজনীয় একটি বাধ্যতামূলক নথি, যার মধ্যে ডিম্যাট এবং ট্রেডিং অ্যাকাউন্ট খোলাও রয়েছে।"
+      }
+    ]
+  }
+}

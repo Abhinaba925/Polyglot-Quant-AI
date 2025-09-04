@@ -1,0 +1,65 @@
+{
+  "en": {
+    "title": "Module 4: The Building Blocks: Stocks, Bonds, and Mutual Funds",
+    "sections": [
+      {
+        "title": "Stocks (Equities): Owning a Piece of a Company",
+        "content": "When you buy a stock, you are purchasing a small ownership stake in a company. The primary way to make money is through capital appreciation (selling for a higher price) and dividends. Stocks are higher risk but offer potential for higher returns."
+      },
+      {
+        "title": "Bonds (Debt): Lending for Fixed Returns",
+        "content": "Buying a bond is like lending money to a corporation or government. In return, you receive periodic interest payments (coupons) and the principal amount at maturity. Bonds are generally safer than stocks and provide stability to a portfolio."
+      },
+      {
+        "title": "Mutual Funds: The Power of Pooled Investing",
+        "content": "A mutual fund pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities. They offer instant diversification, professional management, and are convenient for beginners."
+      },
+      {
+        "title": "Initial Public Offerings (IPOs): How to Invest in New Companies",
+        "content": "An IPO is when a private company offers its shares to the public for the first time. It's an opportunity to invest early, but requires careful evaluation. You can apply for IPOs through your broker using ASBA or UPI."
+      }
+    ]
+  },
+  "hi": {
+    "title": "मॉड्यूल 4: बिल्डिंग ब्लॉक्स: स्टॉक, बॉन्ड और म्यूचुअल फंड",
+    "sections": [
+      {
+        "title": "स्टॉक (इक्विटी): एक कंपनी का एक टुकड़ा रखना",
+        "content": "जब आप एक स्टॉक खरीदते हैं, तो आप एक कंपनी में एक छोटी सी स्वामित्व हिस्सेदारी खरीद रहे होते हैं। पैसा कमाने का प्राथमिक तरीका पूंजी प्रशंसा (उच्च मूल्य पर बेचना) और लाभांश के माध्यम से है। स्टॉक उच्च जोखिम वाले होते हैं लेकिन उच्च रिटर्न की क्षमता प्रदान करते हैं।"
+      },
+      {
+        "title": "बॉन्ड (ऋण): निश्चित रिटर्न के लिए उधार देना",
+        "content": "बॉन्ड खरीदना किसी निगम या सरकार को पैसा उधार देने जैसा है। बदले में, आपको आवधिक ब्याज भुगतान (कूपन) और परिपक्वता पर मूल राशि प्राप्त होती है। बॉन्ड आम तौर पर स्टॉक की तुलना में सुरक्षित होते हैं और एक पोर्टफोलियो को स्थिरता प्रदान करते हैं।"
+      },
+      {
+        "title": "म्यूचुअल फंड: एकत्रित निवेश की शक्ति",
+        "content": "एक म्यूचुअल फंड कई निवेशकों से पैसा इकट्ठा करता है ताकि स्टॉक, बॉन्ड या अन्य प्रतिभूतियों का एक विविध पोर्टफोलियो खरीदा जा सके। वे तत्काल विविधीकरण, पेशेवर प्रबंधन प्रदान करते हैं, और शुरुआती लोगों के लिए सुविधाजनक हैं।"
+      },
+      {
+        "title": "प्रारंभिक सार्वजनिक पेशकश (आईपीओ): नई कंपनियों में निवेश कैसे करें",
+        "content": "आईपीओ तब होता है जब कोई निजी कंपनी पहली बार जनता को अपने शेयर प्रदान करती है। यह जल्दी निवेश करने का एक अवसर है, लेकिन इसके लिए सावधानीपूर्वक मूल्यांकन की आवश्यकता होती है। आप एएसबीए या यूपीआई का उपयोग करके अपने ब्रोकर के माध्यम से आईपीओ के लिए आवेदन कर सकते हैं।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "মডিউল ৪: বিল্ডিং ব্লক: স্টক, বন্ড এবং মিউচুয়াল ফান্ড",
+    "sections": [
+      {
+        "title": "স্টক (ইক্যুইটি): একটি কোম্পানির একটি অংশের মালিকানা",
+        "content": "যখন আপনি একটি স্টক কেনেন, তখন আপনি একটি কোম্পানিতে একটি ছোট মালিকানার অংশ কিনছেন। অর্থ উপার্জনের প্রাথমিক উপায় হল মূলধন বৃদ্ধি (উচ্চ মূল্যে বিক্রি) এবং লভ্যাংশ। স্টকগুলি উচ্চ ঝুঁকিপূর্ণ তবে উচ্চ রিটার্নের সম্ভাবনা দেয়।"
+      },
+      {
+        "title": "বন্ড (ঋণ): নির্দিষ্ট রিটার্নের জন্য ঋণ দেওয়া",
+        "content": "একটি বন্ড কেনা একটি কর্পোরেশন বা সরকারকে টাকা ধার দেওয়ার মতো। বিনিময়ে, আপনি পর্যায়ক্রমিক সুদ প্রদান (কুপন) এবং মেয়াদপূর্তিতে মূল পরিমাণ পান। বন্ডগুলি সাধারণত স্টকের চেয়ে নিরাপদ এবং একটি পোর্টফোলিওতে স্থিতিশীলতা প্রদান করে।"
+      },
+      {
+        "title": "মিউচুয়াল ফান্ড: একত্রিত বিনিয়োগের শক্তি",
+        "content": "একটি মিউচুয়াল ফান্ড অনেক বিনিয়োগকারীর কাছ থেকে টাকা সংগ্রহ করে স্টক, বন্ড বা অন্যান্য সিকিউরিটিজের একটি বৈচিত্র্যময় পোর্টফোলিও কেনার জন্য। তারা তাত্ক্ষণিক বৈচিত্র্য, পেশাদার পরিচালনা প্রদান করে এবং নতুনদের জন্য সুবিধাজনক।"
+      },
+      {
+        "title": "প্রাথমিক পাবলিক অফারিং (আইপিও): নতুন কোম্পানিতে কীভাবে বিনিয়োগ করবেন",
+        "content": "আইপিও হল যখন একটি ব্যক্তিগত কোম্পানি প্রথমবারের মতো জনসাধারণের কাছে তার শেয়ার অফার করে। এটি তাড়াতাড়ি বিনিয়োগ করার একটি সুযোগ, তবে সতর্কতার সাথে মূল্যায়ন প্রয়োজন। আপনি ASBA বা UPI ব্যবহার করে আপনার ব্রোকারের মাধ্যমে আইপিওর জন্য আবেদন করতে পারেন।"
+      }
+    ]
+  }
+}

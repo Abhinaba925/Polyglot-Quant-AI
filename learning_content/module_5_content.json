@@ -1,0 +1,53 @@
+{
+  "en": {
+    "title": "Module 5: A Deep Dive into Stocks",
+    "sections": [
+      {
+        "title": "Understanding Market Capitalization: Large-Cap, Mid-Cap, and Small-Cap Stocks",
+        "content": "Market Cap is the total value of a company's shares (Share Price x Total Shares). SEBI classifies stocks into: Large-Cap (top 100 companies, stable), Mid-Cap (101st-250th, growth-oriented), and Small-Cap (251st onwards, high growth potential but risky)."
+      },
+      {
+        "title": "Examples of Indian Companies in Each Category",
+        "content": "Examples include: Large-Cap (Reliance, HDFC Bank), Mid-Cap (Voltas, Ashok Leyland), and Small-Cap (BSE Ltd., Delta Corp). This helps in understanding the scale and nature of these businesses."
+      },
+      {
+        "title": "Reading a Stock Quote: Decoding the Numbers and Symbols",
+        "content": "A stock quote provides key information like the Ticker Symbol, Last Traded Price (LTP), Change, Open-High-Low-Close (OHLC), Volume, and 52-Week High/Low. Understanding these is crucial for making trading decisions."
+      }
+    ]
+  },
+  "hi": {
+    "title": "मॉड्यूल 5: शेयरों में एक गहरी डुबकी",
+    "sections": [
+      {
+        "title": "बाजार पूंजीकरण को समझना: लार्ज-कैप, मिड-कैप और स्मॉल-कैप स्टॉक",
+        "content": "मार्केट कैप एक कंपनी के शेयरों का कुल मूल्य है (शेयर मूल्य x कुल शेयर)। सेबी शेयरों को वर्गीकृत करता है: लार्ज-कैप (शीर्ष 100 कंपनियां, स्थिर), मिड-कैप (101-250, विकास-उन्मुख), और स्मॉल-कैप (251 से आगे, उच्च विकास क्षमता लेकिन जोखिम भरा)।"
+      },
+      {
+        "title": "प्रत्येक श्रेणी में भारतीय कंपनियों के उदाहरण",
+        "content": "उदाहरणों में शामिल हैं: लार्ज-कैप (रिलायंस, एचडीएफसी बैंक), मिड-कैप (वोल्टास, अशोक लेलैंड), और स्मॉल-कैप (बीएसई लिमिटेड, डेल्टा कॉर्प)। यह इन व्यवसायों के पैमाने और प्रकृति को समझने में मदद करता है।"
+      },
+      {
+        "title": "एक स्टॉक उद्धरण पढ़ना: संख्याओं और प्रतीकों को डिकोड करना",
+        "content": "एक स्टॉक उद्धरण टिकर प्रतीक, अंतिम ट्रेडेड मूल्य (एलटीपी), परिवर्तन, ओपन-हाई-लो-क्लोज (ओएचएलसी), वॉल्यूम और 52-सप्ताह के उच्च/निम्न जैसी महत्वपूर्ण जानकारी प्रदान करता है। ट्रेडिंग निर्णय लेने के लिए इन्हें समझना महत्वपूर्ण है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "মডিউল ৫: স্টকগুলিতে একটি গভীর ডুব",
+    "sections": [
+      {
+        "title": "বাজার মূলধন বোঝা: লার্জ-ক্যাপ, মিড-ক্যাপ এবং স্মল-ক্যাপ স্টক",
+        "content": "মার্কেট ক্যাপ হল একটি কোম্পানির শেয়ারের মোট মূল্য (শেয়ারের মূল্য x মোট শেয়ার)। SEBI স্টকগুলিকে শ্রেণীবদ্ধ করে: লার্জ-ক্যাপ (শীর্ষ ১০০টি কোম্পানি, স্থিতিশীল), মিড-ক্যাপ (১০১-২৫০তম, বৃদ্ধি-ভিত্তিক), এবং স্মল-ক্যাপ (২৫১তম থেকে, উচ্চ বৃদ্ধির সম্ভাবনা কিন্তু ঝুঁকিপূর্ণ)।"
+      },
+      {
+        "title": "প্রতিটি বিভাগে ভারতীয় কোম্পানির উদাহরণ",
+        "content": "উদাহরণগুলির মধ্যে রয়েছে: লার্জ-ক্যাপ (রিলায়েন্স, এইচডিএফসি ব্যাংক), মিড-ক্যাপ (ভোল্টাস, অশোক লেল্যান্ড), এবং স্মল-ক্যাপ (বিএসই লিমিটেড, ডেল্টা কর্প)। এটি এই ব্যবসাগুলির স্কেল এবং প্রকৃতি বুঝতে সাহায্য করে।"
+      },
+      {
+        "title": "একটি স্টক উদ্ধৃতি পড়া: সংখ্যা এবং প্রতীক ডিকোডিং",
+        "content": "একটি স্টক উদ্ধৃতি টিকার প্রতীক, শেষ ট্রেড করা মূল্য (LTP), পরিবর্তন, ওপেন-হাই-লো-ক্লোজ (OHLC), ভলিউম এবং ৫২-সপ্তাহের উচ্চ/নিম্ন-এর মতো মূল তথ্য প্রদান করে। ট্রেডিং সিদ্ধান্ত নেওয়ার জন্য এগুলি বোঝা অত্যন্ত গুরুত্বপূর্ণ।"
+      }
+    ]
+  }
+}

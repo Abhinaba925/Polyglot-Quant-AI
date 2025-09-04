@@ -1,0 +1,50 @@
+{
+  "en": {
+    "title": "Quiz: Navigating Mutual Funds",
+    "questions": [
+      {
+        "question": "What is the key benefit of investing through a Systematic Investment Plan (SIP)?",
+        "options": [
+          "Guaranteed high returns",
+          "Timing the market perfectly",
+          "Rupee cost averaging",
+          "Tax-free investments"
+        ],
+        "answer": "Rupee cost averaging",
+        "explanation": "SIPs help you buy more units when the market is low and fewer units when it is high. This averages out your purchase cost over time, a benefit known as rupee cost averaging."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: म्यूचुअल फंड नेविगेट करना",
+    "questions": [
+      {
+        "question": "व्यवस्थित निवेश योजना (एसआईपी) के माध्यम से निवेश करने का मुख्य लाभ क्या है?",
+        "options": [
+          "गारंटीकृत उच्च रिटर्न",
+          "बाजार को पूरी तरह से समय देना",
+          "रुपये की लागत औसत",
+          "कर-मुक्त निवेश"
+        ],
+        "answer": "रुपये की लागत औसत",
+        "explanation": "एसआईपी आपको बाजार कम होने पर अधिक इकाइयां खरीदने और बाजार ऊंचा होने पर कम इकाइयां खरीदने में मदद करता है। यह समय के साथ आपकी खरीद लागत को औसत करता है, जिसे रुपये की लागत औसत के रूप में जाना जाता है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: মিউচুয়াল ফান্ড নেভিগেট করা",
+    "questions": [
+      {
+        "question": "সিস্টেমেটিক ইনভেস্টমেন্ট প্ল্যান (এসআইপি)-এর মাধ্যমে বিনিয়োগের মূল সুবিধা কী?",
+        "options": [
+          "গ্যারান্টিযুক্ত উচ্চ রিটার্ন",
+          "বাজারকে পুরোপুরি সময় দেওয়া",
+          "রুপি কস্ট অ্যাভারেজিং",
+          "কর-মুক্ত বিনিয়োগ"
+        ],
+        "answer": "রুপি কস্ট অ্যাভারেজিং",
+        "explanation": "এসআইপি আপনাকে বাজার কম থাকলে বেশি ইউনিট এবং বাজার বেশি থাকলে কম ইউনিট কিনতে সাহায্য করে। এটি সময়ের সাথে সাথে আপনার ক্রয় খরচকে গড় করে, যা রুপি কস্ট অ্যাভারেজিং নামে পরিচিত একটি সুবিধা।"
+      }
+    ]
+  }
+}

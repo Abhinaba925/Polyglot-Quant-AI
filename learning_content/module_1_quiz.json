@@ -1,0 +1,116 @@
+{
+  "en": {
+    "title": "Quiz: Why Invest?",
+    "questions": [
+      {
+        "question": "What is the primary reason investing is considered necessary for long-term financial health?",
+        "options": [
+          "To get rich quickly.",
+          "To earn returns that can outpace inflation.",
+          "To have a safe place to store money.",
+          "To avoid paying taxes."
+        ],
+        "answer": "To earn returns that can outpace inflation.",
+        "explanation": "The core purpose of investing is to grow your money's purchasing power over time, which means your returns need to be higher than the rate of inflation."
+      },
+      {
+        "question": "What is the concept of 'compounding' in investing?",
+        "options": [
+          "Investing a fixed amount every month.",
+          "Earning returns on your initial investment only.",
+          "The process where your investment's earnings begin to generate their own earnings.",
+          "Selling an investment for a higher price than you paid."
+        ],
+        "answer": "The process where your investment's earnings begin to generate their own earnings.",
+        "explanation": "Compounding is essentially 'earning interest on your interest.' It allows your wealth to grow exponentially over time, which is why starting to invest early is so powerful."
+      },
+      {
+        "question": "In the SMART framework for setting financial goals, what does the 'T' stand for?",
+        "options": [
+          "Total",
+          "Taxable",
+          "Time-bound",
+          "Typical"
+        ],
+        "answer": "Time-bound",
+        "explanation": "The 'T' in SMART stands for Time-bound, which means setting a clear deadline or timeline for achieving your goal. This creates a sense of urgency and helps in better planning."
+      }
+    ]
+  },
+  "hi": {
+    "title": "प्रश्नोत्तरी: निवेश क्यों करें?",
+    "questions": [
+      {
+        "question": "लंबी अवधि के वित्तीय स्वास्थ्य के लिए निवेश को आवश्यक मानने का प्राथमिक कारण क्या है?",
+        "options": [
+          "जल्दी अमीर बनने के लिए।",
+          "ऐसा रिटर्न अर्जित करने के लिए जो मुद्रास्फीति को मात दे सके।",
+          "पैसे रखने के लिए एक सुरक्षित जगह रखने के लिए।",
+          "कर चुकाने से बचने के लिए।"
+        ],
+        "answer": "ऐसा रिटर्न अर्जित करने के लिए जो मुद्रास्फीति को मात दे सके।",
+        "explanation": "निवेश का मुख्य उद्देश्य समय के साथ आपके पैसे की क्रय शक्ति को बढ़ाना है, जिसका अर्थ है कि आपका रिटर्न मुद्रास्फीति की दर से अधिक होना चाहिए।"
+      },
+      {
+        "question": "निवेश में 'चक्रवृद्धि' (compounding) की अवधारणा क्या है?",
+        "options": [
+          "हर महीने एक निश्चित राशि का निवेश करना।",
+          "केवल आपके प्रारंभिक निवेश पर रिटर्न अर्जित करना।",
+          "वह प्रक्रिया जिसमें आपके निवेश की कमाई अपनी कमाई उत्पन्न करना शुरू कर देती है।",
+          "किसी निवेश को आपके द्वारा भुगतान की गई कीमत से अधिक कीमत पर बेचना।"
+        ],
+        "answer": "वह प्रक्रिया जिसमें आपके निवेश की कमाई अपनी कमाई उत्पन्न करना शुरू कर देती है।",
+        "explanation": "चक्रवृद्धि अनिवार्य रूप से 'ब्याज पर ब्याज कमाना' है। यह आपकी संपत्ति को समय के साथ तेजी से बढ़ने की अनुमति देता है, यही कारण है कि जल्दी निवेश शुरू करना इतना शक्तिशाली है।"
+      },
+      {
+        "question": "वित्तीय लक्ष्य निर्धारित करने के लिए स्मार्ट (SMART) ढांचे में 'T' का क्या अर्थ है?",
+        "options": [
+          "टोटल (Total)",
+          "टैक्सेबल (Taxable)",
+          "टाइम-बाउंड (Time-bound)",
+          "टिपिकल (Typical)"
+        ],
+        "answer": "टाइम-बाउंड (Time-bound)",
+        "explanation": "स्मार्ट में 'T' का अर्थ टाइम-बाउंड है, जिसका अर्थ है अपने लक्ष्य को प्राप्त करने के लिए एक स्पष्ट समय सीमा निर्धारित करना। यह तात्कालिकता की भावना पैदा करता है और बेहतर योजना बनाने में मदद करता है।"
+      }
+    ]
+  },
+  "bn": {
+    "title": "কুইজ: কেন বিনিয়োগ করবেন?",
+    "questions": [
+      {
+        "question": "দীর্ঘমেয়াদী আর্থিক স্বাস্থ্যের জন্য বিনিয়োগকে প্রয়োজনীয় বলে মনে করার প্রাথমিক কারণ কী?",
+        "options": [
+          "তাড়াতাড়ি ধনী হওয়ার জন্য।",
+          "মুদ্রাস্ফীতিকে ছাড়িয়ে যেতে পারে এমন রিটার্ন অর্জনের জন্য।",
+          "টাকা রাখার জন্য একটি নিরাপদ জায়গা পেতে।",
+          "কর দেওয়া এড়াতে।"
+        ],
+        "answer": "মুদ্রাস্ফীতিকে ছাড়িয়ে যেতে পারে এমন রিটার্ন অর্জনের জন্য।",
+        "explanation": "বিনিয়োগের মূল উদ্দেশ্য হল সময়ের সাথে সাথে আপনার অর্থের ক্রয় ক্ষমতা বৃদ্ধি করা, যার মানে আপনার রিটার্ন মুদ্রাস্ফীতির হারের চেয়ে বেশি হওয়া দরকার।"
+      },
+      {
+        "question": "বিনিয়োগে 'চক্রবৃদ্ধি' (compounding) ধারণাটি কী?",
+        "options": [
+          "প্রতি মাসে একটি নির্দিষ্ট পরিমাণ অর্থ বিনিয়োগ করা।",
+          "শুধুমাত্র আপনার প্রাথমিক বিনিয়োগের উপর রিটার্ন অর্জন করা।",
+          "যে প্রক্রিয়ায় আপনার বিনিয়োগের আয় নিজেই নতুন আয় তৈরি করতে শুরু করে।",
+          "আপনি যে দামে কিনেছেন তার চেয়ে বেশি দামে একটি বিনিয়োগ বিক্রি করা।"
+        ],
+        "answer": "যে প্রক্রিয়ায় আপনার বিনিয়োগের আয় নিজেই নতুন আয় তৈরি করতে শুরু করে।",
+        "explanation": "চক্রবৃদ্ধি সুদ মূলত 'সুদের উপর সুদ অর্জন'। এটি সময়ের সাথে সাথে আপনার সম্পদকে দ্রুতগতিতে বাড়াতে সাহায্য করে, এই কারণেই তাড়াতাড়ি বিনিয়োগ শুরু করা এত শক্তিশালী।"
+      },
+      {
+        "question": "আর্থিক লক্ষ্য নির্ধারণের জন্য SMART ফ্রেমওয়ার্কে 'T'-এর অর্থ কী?",
+        "options": [
+          "টোটাল (Total)",
+          "ট্যাক্সেবল (Taxable)",
+          "টাইম-বাউন্ড (Time-bound)",
+          "টিপিক্যাল (Typical)"
+        ],
+        "answer": "টাইম-বাউন্ড (Time-bound)",
+        "explanation": "SMART-এ 'T'-এর অর্থ হল টাইম-বাউন্ড, যার মানে আপনার লক্ষ্য অর্জনের জন্য একটি স্পষ্ট সময়সীমা নির্ধারণ করা। এটি একটি জরুরি অনুভূতি তৈরি করে এবং আরও ভাল পরিকল্পনা করতে সহায়তা করে।"
+      }
+    ]
+  }
+}
