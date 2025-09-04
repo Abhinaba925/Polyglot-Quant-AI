@@ -1,9 +1,11 @@
-Polyglot Quant AI 🚀
+# Polyglot Quant AI 🚀
+
 An all-in-one financial learning and analysis platform designed to empower users on their journey from novice to proficient trader. Built with Streamlit and powered by Google's Gemini API, this application provides a comprehensive ecosystem for financial education, portfolio backtesting, algorithmic trading simulation, market screening, and AI-driven document analysis, with a core focus on supporting Indian vernacular languages.
 
-🎥 Video Demonstration
+## 🎥 Video Demonstration
 
 A full walkthrough of the application's five pillars and its core functionalities.
+https://www.youtube.com/watch?v=-HAKIyURp7I
 
 (Click the image above to watch the full video demonstration on YouTube)
 
