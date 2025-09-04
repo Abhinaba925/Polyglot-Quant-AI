@@ -7,15 +7,15 @@ An all-in-one financial learning and analysis platform designed to empower users
 A full walkthrough of the application's five pillars and its core functionalities.
 https://www.youtube.com/watch?v=-HAKIyURp7I
 
-(Click the image above to watch the full video demonstration on YouTube)
 
-✨ The Vision: A Complete Financial Journey
+
+## ✨ The Vision: A Complete Financial Journey
 The financial world can be intimidating. Polyglot Quant AI was built to address this challenge by creating a single, integrated platform that supports a user's entire journey. The application is structured around five powerful, interconnected pillars, moving seamlessly from foundational knowledge to advanced, practical application.
 
 A primary objective of this project, in keeping with the diverse landscape of India, was to break down language barriers in financial education. Leveraging the Gemini API, the platform offers extensive support for 22 scheduled Indian vernacular languages, ensuring that knowledge is accessible to everyone.
 
-🏛️ The Five Pillars of Polyglot Quant AI
-1. 🎓 Interactive Learning Center
+## 🏛️ The Five Pillars of Polyglot Quant AI
+### 1. 🎓 Interactive Learning Center
 
 The journey begins with a solid foundation. This pillar provides a structured, interactive curriculum on the fundamentals of investing.
 
@@ -23,7 +23,7 @@ Interactive Quizzes: Reinforce learning with quizzes after each module. The one-
 
 Polyglot Support: In line with the project's core vision, all educational content, including modules and quizzes, can be instantly translated into 22 Indian languages, making financial literacy truly accessible.
 
-2. 📈 Portfolio Playground
+### 2. 📈 Portfolio Playground
 
 This pillar allows users to move from theory to practice by backtesting long-term investment strategies against years of historical market data.
 
@@ -35,7 +35,7 @@ Benchmark Comparison: Visualize your portfolio's growth and risk metrics (Sharpe
 
 Head-to-Head Strategy Comparison: Run multiple backtests with different parameters and overlay their equity curves on a single chart for direct comparison.
 
-3. 🤖 Algorithmic Trading Playground
+### 3. 🤖 Algorithmic Trading Playground
 
 For those interested in active, rule-based trading, this pillar provides a sandbox to simulate popular technical trading strategies on individual stocks.
 
@@ -45,7 +45,7 @@ Visual Trade Analysis: The platform plots every single buy and sell signal direc
 
 Detailed Performance Analytics: Get a full breakdown of your strategy's performance, including total returns and risk-adjusted metrics, compared to a simple buy-and-hold approach.
 
-4. 🔎 Dynamic Stock Screener
+### 4. 🔎 Dynamic Stock Screener
 
 Discover trading and investment opportunities in real-time. The screener acts as a powerful funnel to find stocks that meet your specific technical criteria from a broad market universe.
 
@@ -55,7 +55,7 @@ Multi-Filter Capability: Combine a variety of technical filters—such as Golden
 
 Instant, Detailed Results: View key metrics for all stocks that match your scan in a clean, filterable table, allowing for quick analysis and decision-making.
 
-5. 📄 FinSummarizer (RAG with Gemini)
+### 5. 📄 FinSummarizer (RAG with Gemini)
 
 This is the most advanced pillar, an intelligent tool that uses Retrieval-Augmented Generation (RAG) to have a natural language conversation with your financial documents.
 
@@ -65,7 +65,7 @@ Chat with Your Documents: Ask specific, detailed questions in plain English (e.g
 
 Multilingual Analysis: Extend the platform's polyglot capabilities to your research. You can ask questions and receive answers about your documents in your preferred Indian language.
 
-🛠️ Tech Stack & Key Libraries
+## 🛠️ Tech Stack & Key Libraries
 This application was built using a modern, powerful stack of open-source libraries.
 
 Application Framework:
@@ -94,7 +94,7 @@ Document & Utility Libraries:
 
 PyPDF: For extracting text from user-uploaded PDF documents.
 
-⚙️ Setup & Installation
+## ⚙️ Setup & Installation
 Follow these steps to set up and run the project on your local machine.
 
 1. Prerequisites
