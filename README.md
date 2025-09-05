@@ -133,7 +133,7 @@ Once the setup is complete, run the following command in your terminal:
 streamlit run app.py
 
 
-The application will automatically open in your default web browser at `http://localhost:8501`.
+The application will automatically open in your default web browser `
 
 ## 🚀 Getting Started
 
@@ -143,9 +143,6 @@ The application will automatically open in your default web browser at `http://l
 4. **Use the Stock Screener** to identify opportunities
 5. **Leverage FinSummarizer** to analyze financial documents with AI
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
